@@ -1,9 +1,9 @@
 
 /* Your CSS Code here. */
 
-.containers{
+.holder{
 	display:flex;
-	flex-flow:row wrap;
+	flex-wrap:wrap;
 	justify-content: center;
 }
 
